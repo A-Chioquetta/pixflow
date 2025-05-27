@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 setup(
     name="pixflow",
-    version="0.1.0",
+    version="0.1.1",
     author="Alessandra Chioquetta",
     description="A simple image processing toolkit for resizing, histogram transfer, and difference detection.",
     long_description=long_description,
